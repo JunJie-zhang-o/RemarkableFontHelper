@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Remarkable中文字体助手</string>
+	<key>CFBundleExecutable</key>
+	<string>Remarkable中文字体助手</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-240baf3d2604d662c873689e2963fa4704985f2f3418d3271a9e41d4425fe7cc.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>Remarkable中文字体助手</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Remarkable中文字体助手</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
+</dict>
+</plist>

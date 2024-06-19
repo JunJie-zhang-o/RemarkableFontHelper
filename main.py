@@ -119,7 +119,7 @@ class RemarkBox(ctk.CTk):
         ip = self.ip_entry.get()
         file_name = self.file_var.get()
         local_path = os.path.join(self.fonts_folder, file_name)
-        remote_path = f"/usr/share/fonts/opentype/{file_name}"
+        remote_path = f"/usr/share/fonts/{file_name}"
 
         if not username or not password or not self.is_valid_ip(ip):
             messagebox.showwarning(
